@@ -1,3 +1,3 @@
-def calculaLetra(numeroDNI):
+def calculaLetra(numero):
   lista = 'TRWAGMYFPDXBNJZSQVHLCKE'
   return (lista[numero%23])
