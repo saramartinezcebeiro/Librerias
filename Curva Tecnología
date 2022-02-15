@@ -1,4 +1,4 @@
-RPM_Potencia(KW)
+RPM,Potencia(KW)
 1500,70
 2000,90
 2500,120
